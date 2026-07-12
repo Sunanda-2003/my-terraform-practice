@@ -1,0 +1,8 @@
+**/.terraform/*
+
+*.tfstate
+*.tfstate.*
+
+.terraform.lock.he1
+
+*.doc
