@@ -7,6 +7,4 @@ resource "aws_instance" "name" {
 
 }
 
-resource "aws_vpc" "sri" {
-  cidr_block = "10.0.0.0/16"
-}
+
